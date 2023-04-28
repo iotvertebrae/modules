@@ -1,10 +1,10 @@
 # IoT Vertebrae 
 
-![Aspect](iotvertebrae00.jpg)
+![Aspect](img/iotvertebrae00.jpg)
 
-![Aspect](iotvertebrae01.jpg)
+![Aspect](img/iotvertebrae01.jpg)
 
-![Modules](panel.png)
+![Modules](img/panel.png)
 
-![Modules](iotv_v2.png)
+![Modules](img/iotv_v2.png)
 
