@@ -1,6 +1,6 @@
 # IoT Vertebrae 
 
-![Aspect](img/iotvertebrae00.jpg)
+![Aspect](img/iotvertebrae00.png)
 
 ![Aspect](img/iotvertebrae01.jpg)
 
