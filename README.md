@@ -10,3 +10,5 @@ The vertebrae bus is an extenxion of the [UEXT](https://www.olimex.com/Products/
 
 ![Modules](img/iotv_v2.png)
 
+![Software](img/snapvertebrae.png)
+
